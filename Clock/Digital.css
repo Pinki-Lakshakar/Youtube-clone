@@ -1,0 +1,42 @@
+* {
+box-sizing: border-box;
+padding:0;
+margin:0;
+}
+body{
+    background: crimson;
+    color:#fff;
+    font-family: 'Poppins',
+    sans-serif;
+
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+h1{
+    font-size: 5em;
+}
+
+
+
+/* section  article{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    wid8px;th:300px;
+    border-radius: 100%;
+    border: 20px solid #fff;
+
+} */
