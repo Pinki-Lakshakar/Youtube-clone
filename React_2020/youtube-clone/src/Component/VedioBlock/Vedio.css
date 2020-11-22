@@ -1,0 +1,23 @@
+.innerBlock img{
+    width:100%;
+    height:90px;
+
+
+}
+.innerBlock{
+    display: flex;
+    
+
+}
+.innerBlock .video_thumbnail{
+    flex-basis: 40%;
+}
+.innerBlock .video_description{
+    flex-basis: 60%;
+}
+.innerBlock h2{
+    font-size: 14px;
+    text-overflow: elllipsis;
+    white-space: nowrap;
+    
+}
